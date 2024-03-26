@@ -3,7 +3,7 @@
 </div>
 <br>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ignacio M. De la Jara </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Arturo Marín Navarro </h1>
 
 I am a master candidate in computer science at the university of chile passionate about computer vision and NLP. I live in Santiago de Chile and currently work as a data scientist at the bank [BCI](https://www.bci.cl/) and as a part-time professor of [MDS7202](https://github.com/MDS7202/MDS7202) at the university of Chile.
 
