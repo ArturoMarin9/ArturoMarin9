@@ -16,7 +16,7 @@
 
 <br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://giphy.com/gifs/hollywoodsuite-waynes-world-3o6ZtjUZAD5Lf0QFLW" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/3o6ZtjUZAD5Lf0QFLW/giphy.gif" />
 
 - Me encanta el mundo de los datos y todo lo que se puede lograr en base a esto 📊💡
 - Fanático del fútbol y de asistir al estadio ⚽🏟️
