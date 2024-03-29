@@ -1,6 +1,3 @@
-<div align="center">
-    <img src='banner.png' style="border-radius: 15px">
-</div>
 <br>
 
 <h1 align="center">Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Arturo Marín Navarro </h1>
@@ -19,7 +16,7 @@
 
 <br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://tenor.com/es-419/view/hey-arnold-headphones-listening-to-music-arnold-shortman-music-gif-26079668" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://giphy.com/gifs/hollywoodsuite-waynes-world-3o6ZtjUZAD5Lf0QFLW" />
 
 - Me encanta el mundo de los datos y todo lo que se puede lograr en base a esto 📊💡
 - Fanático del fútbol y de asistir al estadio ⚽🏟️
@@ -30,9 +27,6 @@
 <br>
 <br>
 
-<div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=mezosky&count_private=true&show_icons=true&custom_title=Github&theme=chartreuse-dark&bg_color=0,000000,130F40&layout=compact&border_radius=8">
-</div>
 
 <br>
 <br>
